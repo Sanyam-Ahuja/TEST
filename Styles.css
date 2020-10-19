@@ -452,9 +452,8 @@
 @media only screen and (orientation:portrait){
     #wrapper { display:none; }
     #warning-message { display:block; }
-    .I{
-        font-size: 9rem ;
-        font-weight: 900;
-    
-    }
+}
+   .I{
+    font-size: 40rem ;
+    font-weight: 900;
 }
